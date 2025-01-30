@@ -1,9 +1,6 @@
-<!--!!START SILENT -->
-<!-- # AirBnB Clone -->
-<!--!!END -->
-<!--!!ADD -->
+
 # Oasis
-<!--!!END_ADD -->
+
 
 ## Database Schema Design
 
